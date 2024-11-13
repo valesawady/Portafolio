@@ -4,6 +4,7 @@ Exponer y dar a conocer los proyectos que he desarrollado a lo largo de mi forma
 # ¿Para quiénes es esta propuesta? 
 # Usuario Extremo 1
 Perfil: Joven adulto (30-50 años), emprendedor que busca referencias visuales para contratar servicios de diseño gráfico que fortalezcan la identidad visual de su empresa. 
+
 Necesidades y Metas: Quiere encontrar una diseñadora cuyo estilo refleje la esencia de su marca. Para esto, explora perfiles de Instagram y portafolios en línea regularmente, buscando inspiración y evaluando trabajos anteriores para asegurarse de que el profesional sea adecuado para su visión. 
 Contexto y Comportamiento: Este usuario suele navegar desde su teléfono o computador al inicio de nuevos proyectos o en momentos de planificación, explorando redes sociales y sitios de portafolios especializados en branding y diseño visual. 
 Motivaciones: Está motivado a encontrar una diseñadora que demuestre experiencia, creatividad y profesionalismo, y que pueda traducir los valores de su empresa en un estilo visual sólido y distintivo. 

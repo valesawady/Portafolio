@@ -1,5 +1,6 @@
 # Portafolio
-# ¿Para qué es esta propuesta? → objetivo general  
+# ¿Para qué es esta propuesta?   
+Exponer y dar a conocer los proyectos que he desarrollado a lo largo de mi formación en diseño, presentándolos en una narrativa que aporte un significado y coherencia. 
 # ¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio 
 # Usuario Extremo 1
 # Usuario Extremo 2 

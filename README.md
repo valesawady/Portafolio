@@ -4,7 +4,7 @@
 # Usuario Extremo 1
 # Usuario Extremo 2 
 # Usuario Probable 3 
-# ¿Qué existe que es similar a la propuesta? → antecedentes → seleccione y describa los aspectos positivos y negativos de 6 sitios o aplicaciones web. Se recomienda buscarlos en: 
+# ¿Qué existe que es similar a la propuesta? 
 <https://www.sebastian-martinez.com/ > : Destaco que el sitio presenta una jerarquía de información muy bien organizada, lo cual facilita la navegación. Es interactivo, pero de manera sutil, con animaciones que permiten una transición fluida entre secciones, como de la introducción a los proyectos. Me gusta que los proyectos se desplieguen a medida que uno hace scroll, lo que permite una exploración continua. Sin embargo, una mejora sería permitir que las imágenes de los proyectos se puedan ampliar al hacer clic, para ver más detalles. 
 
 <https://unveil.fr/?ref=godly > : Es una vitrina de fotografías de su portafolio con una interfaz rápida, que permite conocer más del trabajo al hacer clic en un botón. Además, ofrece filtros para organizar proyectos en categorías como gráficos, 3D, etc. Esto permite mostrar todos los trabajos sin información adicional, evitando sobrecargar al visitante. Lo negativo es que el desplazamiento constante puede resultar un poco cansador. 

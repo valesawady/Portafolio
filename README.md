@@ -1,10 +1,23 @@
 # Portafolio
 # ¿Para qué es esta propuesta?   
 Exponer y dar a conocer los proyectos que he desarrollado a lo largo de mi formación en diseño, presentándolos en una narrativa que aporte un significado y coherencia. 
-# ¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio 
+# ¿Para quiénes es esta propuesta? 
 # Usuario Extremo 1
+Perfil: Joven adulto (30-50 años), emprendedor que busca referencias visuales para contratar servicios de diseño gráfico que fortalezcan la identidad visual de su empresa. 
+Necesidades y Metas: Quiere encontrar una diseñadora cuyo estilo refleje la esencia de su marca. Para esto, explora perfiles de Instagram y portafolios en línea regularmente, buscando inspiración y evaluando trabajos anteriores para asegurarse de que el profesional sea adecuado para su visión. 
+Contexto y Comportamiento: Este usuario suele navegar desde su teléfono o computador al inicio de nuevos proyectos o en momentos de planificación, explorando redes sociales y sitios de portafolios especializados en branding y diseño visual. 
+Motivaciones: Está motivado a encontrar una diseñadora que demuestre experiencia, creatividad y profesionalismo, y que pueda traducir los valores de su empresa en un estilo visual sólido y distintivo. 
 # Usuario Extremo 2 
-# Usuario Probable 3 
+Perfil: Persona adulta (26-50 años), reclutadora de una empresa que ha recibido tu portafolio tras una postulación. 
+Necesidades y Metas: Necesita evaluar rápidamente las habilidades y estilo de una diseñadora para determinar si se alinea con el perfil requerido en la empresa. Prefiere un portafolio de carga rápida, con una estructura clara y directa que destaque habilidades clave y proyectos relevantes. 
+Contexto y Comportamiento: Revisa varios portafolios al día y da prioridad a la primera impresión. Se enfoca en los primeros segundos de navegación para decidir si profundizará en un perfil. 
+Frustraciones: Siente frustración al encontrarse con portafolios desorganizados o que requieren mucho esfuerzo para navegar. 
+Motivaciones: Quiere contratar a la mejor diseñadora para el puesto, alguien que pueda aportar de manera efectiva a la visión de la empresa y contribuir al equipo. 
+# Usuario Probable 
+Perfil: Estudiante de diseño (18-24 años), en busca de inspiración y referencias profesionales para desarrollar su propio estilo y mejorar su portafolio. 
+Necesidades y Metas: Busca explorar los trabajos de diseñadores experimentados para aprender sobre presentación de proyectos, técnicas y la estructura de un portafolio. Su meta es encontrar ideas que pueda aplicar a sus propios proyectos académicos. 
+Contexto y Comportamiento: Suele navegar en horarios de estudio o en momentos de inspiración, tanto en el computador como en el celular, observando en detalle los elementos visuales y narrativos de los proyectos de otros diseñadores. 
+Motivaciones: Quiere mejorar sus habilidades y construir una identidad visual propia, guiándose por ejemplos profesionales. Le motiva la posibilidad de aplicar nuevas estrategias en sus trabajos futuros. 
 # ¿Qué existe que es similar a la propuesta? 
 <https://www.sebastian-martinez.com/ > : Destaco que el sitio presenta una jerarquía de información muy bien organizada, lo cual facilita la navegación. Es interactivo, pero de manera sutil, con animaciones que permiten una transición fluida entre secciones, como de la introducción a los proyectos. Me gusta que los proyectos se desplieguen a medida que uno hace scroll, lo que permite una exploración continua. Sin embargo, una mejora sería permitir que las imágenes de los proyectos se puedan ampliar al hacer clic, para ver más detalles. 
 

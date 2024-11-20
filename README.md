@@ -48,5 +48,5 @@ Motivaciones: Quiere mejorar sus habilidades y construir una identidad visual pr
 # ¿Qué existe que puede inspirar la propuesta? → referentes 
 ![portafoliomoodboard](https://github.com/user-attachments/assets/8eb7131c-1442-4ebf-9839-3bdd0b7dfb26)
 
-![portada meta io](https://github.com/user-attachments/assets/a5a17030-62d3-48aa-b692-16ab3ffb5c92)
+
 

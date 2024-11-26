@@ -1,0 +1,86 @@
+[
+    {
+        "nombre": "KITU",
+        "subtitulo": "Servicio",
+        "descripcion": "Este proyecto documenta la colaboración con Balloon Latam en la región del Maule, enfocándonos en el desarrollo rural y la conservación a través del emprendimiento. Junto a un equipo de diseño, creamos Kitu, un kit de herramientas que incluye un manual, tableros de acrílico y herramientas de planificación. Diseñado para facilitar la creación y gestión de proyectos, Kitu promueve la colaboración y la organización en tres etapas: inicio, elaboración y ejecución. Su impacto busca fortalecer la cooperativa turística local y expandir su aplicación a otras comunidades en Chile.",
+        "fecha": "2023",
+        "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Kitu.webp",
+        "fotos": [
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Kitu-0.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Kitu-1.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Kitu-2.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Kitu-3.webp"
+        ],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "OVA",
+        "subtitulo": "Visual",
+        "descripcion": "Creación del nombre y la identidad visual para OVA, un estudio de diseño industrial que refleja eficiencia, calidad y creatividad. Inspirado en las vocales de los nombres de sus líderes, OVA simboliza su pasión en cada proyecto. Su identidad se plasma en tarjetas de presentación en blanco y negro, destacando la elegancia, simplicidad y profesionalismo que caracteriza su filosofía de diseño.",
+        "fecha": "2023",
+        "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Ova.webp",
+        "fotos": [
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Ova-0.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Ova-1.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Ova-2.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Ova-3.webp"
+        ],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "YUNUS",
+        "subtitulo": "Industrial",
+        "descripcion": "En colaboración con Josefina Santibáñez, Sofía Opazo y Constanza Velásquez, este proyecto aborda la mejora de la escuela de la corporación Yunus en Peñalolén. Diseñamos una nueva fachada que combina orientación, comunicación y seguridad para estudiantes, vecinos y personal. La propuesta integra elementos como un portal de entrada inspirado en la Cordillera de los Andes, señalética con colores y símbolos representativos, e iluminación funcional. Los materiales y diseños fueron seleccionados para garantizar durabilidad, accesibilidad y una identidad renovada, logrando una conexión armónica con el entorno.",
+        "fecha": "2023",
+        "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Yunus.webp",
+        "fotos": [
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Yunus-0.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Yunus-1.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Yunus-2.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Yunus-3.webp"
+        ],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "MAIUU",
+        "descripcion": "Industrial",
+        "descripcion": "Maiuu es una casa para gatos basada en un dodecaedro de MDF de 12 mm, ensamblada con uniones impresas en 3D de PLA. Inspirado en la palabra hawaiana Maiuu que significa garras, su diseño combina estética y funcionalidad. El logo, tallado en una de sus caras, refuerza su identidad. El proyecto incluyó diseño, pruebas de resistencia y fabricación mediante CNC, logrando una estructura robusta y cómoda para las mascotas.",
+        "fecha": "2023",
+        "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Maiuu.webp",
+        "fotos": [
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Maiuu-0.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Maiuu-1.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Maiuu-2.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Maiuu-3.webp"
+        ],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "EQUITA",
+        "subtitulo": "Servicio",
+        "descripcion": "En el Student Service Design Challenge 2024, participamos en el desafío presentado por Philips, obteniendo el segundo lugar con Equita. Este proyecto fue desarrollado por Sofía Rizzoli, Francisca Valenzuela, Renata Vergara, Josefina Rojas, Renata Ramos y María Borquez. Equita es una solución digital diseñada para reducir la violencia gineco-obstétrica en Chile, promoviendo un acceso justo y humano a la atención médica.Nuestro objetivo fue transformar la relación paciente-profesional, mejorando la experiencia ginecológica de manera inclusiva y eficiente, con una visión de implementación nacional para fortalecer la salud reproductiva en Chile.",
+        "fecha": "2023",
+        "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Equita.webp",
+        "fotos": [
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Equita-0.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Equita-1.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Equita-2.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Equita-3.webp"
+        ],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "SIMBIOCENO",
+        "subtitulo": "Visual",
+        "descripcion": "Este proyecto especulativo explora futuros posibles en la arquitectura chilena, proponiendo una transición desde el Antropoceno hacia el Simbioceno. Mediante un manifiesto en forma de libro, se presentan diez principios que invitan a construir de manera sostenible y poética, utilizando biomateriales. La propuesta enfatiza la importancia de la conexión sensorial, la ética en la elección de materiales, y la co-creación con la naturaleza para lograr una convivencia simbiótica.",
+        "fecha": "2023",
+        "foto": "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Simbioceno.webp",
+        "fotos": [
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Simbioceno-0.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Simbioceno-1.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Simbioceno-2.webp",
+            "https://raw.githubusercontent.com/valesawady/Portafolio/refs/heads/main/assets/Simbioceno-3.webp"
+        ],
+        "github": "https://github.com/valesawady"
+    }
+]

@@ -1,92 +1,177 @@
 body {
+    font-family: "Hanken Grotesk", sans-serif;
+    color: #000;
     margin: 0;
-    padding: 0;
-    font-family: "Inter", sans-serif;
-    background-color: #fefefe; /* Fondo azul */
-    color: black;
+    padding-top: 50px; /* Para evitar que el contenido quede bajo la navbar */
+}
+a {
+    color: #000; /* Color negro */
+    text-decoration: none;
 }
 
-/* Hero Section */
-#hero {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    height: 100vh;
+a:hover {
+    color: #666; /* Gris oscuro */
+    text-decoration: underline;
 }
 
-.hero-title {
-    font-family: "Goldman", sans-serif;
-    font-size: 13vw;
-    font-weight: 700;
+.back-link {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+    display: block;
+}
+/* Barra */
+.navbar {
+    background-color: transparent; /* Fondo transparente */
+    padding: 10px 0; /* Ajuste de padding para que no se vea muy grande */
     margin: 0;
-    animation: fadeIn 0.5s ease-in-out;
-}
-
-.subtext {
-    font-size: 2vw;
-    margin-top: 1rem;
-}
-
-/* Animaciones */
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-/* Secciones de proyectos */
-.project-section {
-    position: relative;
-    width: 100%;
-    height: 100vh; /* Ocupa toda la altura de la pantalla */
-    overflow: hidden;
-}
-
-.project-image {
-    position: absolute;
+    position: fixed; /* Hacer que el navbar se quede fijo al hacer scroll */
     top: 0;
-    left: 0;
     width: 100%;
-    height: 100%;
-    object-fit: cover; /* Asegura que la imagen cubra el contenedor sin distorsión */
-    filter: blur(3px) brightness(0.6);
-    transition: filter 0.5s ease;
+    z-index: 1000; /* Asegurar que quede encima de otros elementos */
 }
 
-.text-container {
-    position: absolute;
-    top: 20%; /* Ajusta según lo que necesites */
-    left: 2%; /* Margen izquierdo consistente */
-    z-index: 5;
-    color: white;
-    text-shadow: 0px 4px 8px rgba(0, 0, 0, 0.8);
+/* Estilo para los enlaces del navbar */
+.navbar-brand,
+.nav-link {
+    font-size: 16px;
+    font-weight: 500;
+    color: #333; /* Color inicial del texto */
+    text-decoration: none;
 }
 
-/* Títulos y texto */
-.text-container h1 {
-    font-size: 4rem;
+/* Hover efecto para los enlaces */
+.nav-link:hover {
+    color: #888; /* Color al pasar el cursor */
+}
+
+/* Enlace activo */
+.navbar-nav .nav-link.active {
     font-weight: bold;
-    margin-bottom: 0.1rem;
+    color: #000;
 }
 
-.text-container h2 {
+/* Ajustar margen del contenido principal para que no quede detrás del navbar */
+.main-content {
+    margin-top: 60px; /* Ajusta este valor si el navbar es más alto */
+}
+
+/* Título */
+.hero-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+#hero {
+    padding: 0;
+}
+
+.col-md-4 h5 {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #000;
+    text-decoration: none;
+}
+
+.single-project h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+#project-title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+#project-type {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+#project-year {
     font-size: 1.5rem;
-    font-style: italic;
-    margin-bottom: 0.4rem;
+    font-weight: 400;
+    color: black;
+    margin-bottom: 1.5rem;
 }
 
-.text-container p {
-    font-size: 1.2rem;
-    margin-bottom: 0.4rem;
+#project-description {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #666;
 }
 
-/* Hover para revelar la imagen */
-.project-section:hover .project-image {
-    filter: blur(0) brightness(1); /* Remueve el blur al pasar el mouse */
+/* Galería */
+.project-gallery img {
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Sobre mí */
+.about-page h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+}
+
+.about-page p {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #000;
+}
+
+.footer {
+    position: relative; /* Si no deseas que flote */
+    bottom: 0;
+    width: 100%;
+    padding: 20px; /* Ajusta el espacio dentro del footer */
+    background-color: transparent;
+    text-align: center;
+}
+
+.footer-left,
+.footer-right {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.footer a {
+    color: #333; /* Negro */
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer a:hover {
+    color: #666;
+    text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .navbar-brand,
+    .nav-link {
+        font-size: 14px;
+    }
+
+    .hero-image {
+        margin: 10px auto;
+    }
+
+    .col-md-4 h5 {
+        font-size: 0.9rem;
+    }
+    .project-first-image img {
+        width: 100%;
+    }
+    #project-title {
+        font-size: 2rem;
+    }
+    #project-type {
+        font-size: 1.5rem;
+    }
 }
